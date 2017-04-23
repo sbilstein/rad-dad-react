@@ -33,3 +33,5 @@ node tools/run                  # Compiles the app and opens it in a browser wit
 ```bash
 node tools/publish.js           # Compiles the app and deployes it to Firebase
 ```
+
+https://aws.amazon.com/sdk-for-node-js/
